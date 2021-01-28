@@ -39,7 +39,8 @@ h1 {
     padding-left: 2em;
     padding-bottom: 0.5em;
     margin-right: 12%;
-    background-image: url() ; /*Ausfüllen*/
+    background-color: #fffdfd;
+    border-style:ridge
 }
 .MTITC {
     color: rgb(0, 0, 0);
